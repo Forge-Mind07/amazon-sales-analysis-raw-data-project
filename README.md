@@ -131,5 +131,5 @@ Customer clustering (if customer IDs exist)
 
 👤 Author
 
-Mithun (Mob)
+Mithun 
 Aspiring Data Analyst • Python • SQL • Pandas • Problem Solver
