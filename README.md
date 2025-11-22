@@ -66,11 +66,9 @@ PyCharm ,  Python Script
 
 
 📁 Project Structure
-amazon-sales-analysis/
-│
-├── amazon_analysis.ipynb      # (or analysis.py) main analysis code
-├── README.md                  # project documentation
-└── data/                      # dataset reference (dataset not included due to Kaggle license)
+amazon-sales-analysis/-- amazon_analysis.ipynb -
+README.md                 
+- data--/                     
 
 
 
@@ -131,5 +129,5 @@ Customer clustering (if customer IDs exist)
 
 👤 Author
 
-Mithun 
-Aspiring Data Analyst • Python • SQL • Pandas • Problem Solver
+< Mithun >
+ Aspiring Data Analyst • Python • SQL • Pandas • Problem Solver
